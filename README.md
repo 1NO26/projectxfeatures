@@ -1,4 +1,3 @@
-# projectxfeatures
 
 PROJECT X
 
